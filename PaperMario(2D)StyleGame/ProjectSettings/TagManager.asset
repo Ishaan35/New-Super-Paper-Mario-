@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Water
+  - Coin
+  - FireballCollider
+  - FireFlower
+  - BrickBlock
+  - Pipe
+  - Pipe2
+  - GoombaDeath
+  - Mountain Area
+  - PlayerDamage
+  - EnemyWall
+  - Goomba
+  - Pipe3
+  - Level1
+  - CourseClear
+  - Underground
+  - Level2
+  - CourseClear2
+  - DeathZones
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Fireball
+  - Coin
+  - Piranha Pipe
+  - Piranha Plant
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: level
+    uniqueID: 904681693
+    locked: 0
+  - name: Spawn
+    uniqueID: 1111138587
+    locked: 0
+  - name: UI
+    uniqueID: 776324745
+    locked: 0
